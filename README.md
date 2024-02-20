@@ -1,1 +1,1 @@
-# sinehus.com
+# sinehus
