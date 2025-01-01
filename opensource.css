@@ -1,0 +1,15 @@
+.npm {
+  margin-bottom: 26px;
+}
+
+.npm h3 {
+  margin-bottom: 6px;
+}
+
+.npm h3 a {
+  background-image: url("./assets/images/npm.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  padding-left: 40px;
+}
